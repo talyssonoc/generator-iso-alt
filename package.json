@@ -1,6 +1,6 @@
 {
   "name": "generator-iso-alt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generator for isomorphic flux apps with React and Alt",
   "license": "MIT",
   "main": "app/index.js",

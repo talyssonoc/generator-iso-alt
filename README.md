@@ -14,7 +14,7 @@ The libs used here was:
 - [Routr](https://github.com/yahoo/routr), for routing. I find it simpler and with less _magic_ than [React Router](https://github.com/rackt/react-router);
 - [Serialize Javascript](https://github.com/yahoo/serialize-javascript), for serialize the app state and send it to the browser, it was simpler than Iso, the package recommended by Alt;
 - [Webpack](https://webpack.github.io/), for ES6 modules on the browser;
-- [PureCSS](http://purecss.io/), to show that is alreade comes with SASS integration.
+- [PureCSS](http://purecss.io/), to show that it already comes with SASS integration.
 
 ## How the generated code works
 
