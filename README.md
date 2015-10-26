@@ -4,6 +4,30 @@ Generate a isomorphic flux app using [React](http://facebook.github.io/react/) a
 
 This generator originated from the [isomorphic-alt-boilerplate](https://github.com/talyssonoc/isomorphic-alt-boilerplate).
 
+## Installation
+
+You must have [yo](https://www.npmjs.com/package/yo) installed globally, if you don't, run:
+
+```sh
+  $ sudo npm install -g yo
+```
+
+Then install the generator:
+
+```sh
+  $ sudo npm install -g generator-iso-alt
+```
+
+## Usage
+
+Create a folder to your app, enter it, and then run:
+
+```sh
+  $ yo iso-alt
+```
+
+It will ask you the name of your app, and then generate it for you!
+
 ## Libs
 
 The libs used here was:

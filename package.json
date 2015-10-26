@@ -1,6 +1,6 @@
 {
   "name": "generator-iso-alt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generator for isomorphic flux apps with React and Alt",
   "license": "MIT",
   "main": "app/index.js",
@@ -27,7 +27,7 @@
   "dependencies": {
     "chalk": "^1.0.0",
     "slug": "^0.9.1",
-    "yeoman-generator": "^0.19.0",
+    "yeoman-generator": "^0.21.1",
     "yosay": "^1.0.2"
   },
   "devDependencies": {
